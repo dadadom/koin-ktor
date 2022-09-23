@@ -4,7 +4,11 @@ Badges: `[UPDATED]`, `[FIXED]`, `[NEW]`, `[DEPRECATED]`, `[REMOVED]`,  `[BREAKIN
 
 # [3.2]()
 
-## [3.2.1]()
+## [3.2.2]() - 2022-09-23
+
+* `[UPDATED]` - update with Koin 3.2.2 + Fix back compat with Java 8 compilation
+
+## [3.2.1]() - 2022-09-12
 
 * `[UPDATED]` - ktor update - 2.0.3
 
